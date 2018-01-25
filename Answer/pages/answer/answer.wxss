@@ -1,0 +1,22 @@
+/* pages/answer/answer.wxss */
+
+/* body*/
+.content {
+margin: 0;
+}
+
+/* 题目*/
+.answer-view {
+background-color: red;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 5px;
+font-size: 17px;
+}
+
+/*答案*/
+.results-view {
+background-color: orange;
+margin-top: 50px;
+margin-bottom: 0px;
+}

@@ -1,0 +1,11 @@
+<!--pages/answer/answer.wxml-->
+<view class='content'>
+  <view class='answer-view'>
+    <label>盆里有6只馒头，6个小朋友每人分到1只，但盆里还留着1只，为什么？</label>
+  </view>
+  <!-- <view class='results-view'> -->
+  <block class='results-view'>
+
+  </block>
+  <!-- </view> -->
+</view>
